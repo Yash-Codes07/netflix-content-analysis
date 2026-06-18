@@ -4,7 +4,7 @@
 
 This project explores Netflix's content catalog using Python and Pandas.
 
-The goal is to analyze:
+The objective is to analyze:
 - Movies vs TV Shows
 - Country-wise content distribution
 - Genre distribution
@@ -29,11 +29,25 @@ Netflix Movies and TV Shows Dataset
 
 ## Current Progress
 
-- Data loading
-- Dataset exploration
-- Missing value analysis
-- Content type analysis
-- Genre preprocessing (in progress)
+✅ Data loading
+
+✅ Dataset exploration
+
+✅ Missing value analysis
+
+✅ Missing value handling
+
+✅ Content type analysis
+
+✅ Country preprocessing and analysis
+
+🚧 Genre preprocessing
+
+⏳ Rating analysis
+
+⏳ Release trend analysis
+
+⏳ Data visualizations
 
 ## Project Structure
 
