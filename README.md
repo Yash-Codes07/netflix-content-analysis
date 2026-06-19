@@ -47,7 +47,7 @@ Netflix Movies and TV Shows Dataset
 
 ✅Release trend analysis
 
-⏳ Data visualizations
+✅ Data visualizations
 
 ## Project Structure
 
