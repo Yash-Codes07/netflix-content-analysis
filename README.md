@@ -41,11 +41,11 @@ Netflix Movies and TV Shows Dataset
 
 ✅ Country preprocessing and analysis
 
-🚧 Genre preprocessing
+✅ Genre preprocessing and analysis
 
-⏳ Rating analysis
+✅Rating analysis
 
-⏳ Release trend analysis
+✅Release trend analysis
 
 ⏳ Data visualizations
 
@@ -61,3 +61,10 @@ netflix-content-analysis/
 │   └── netflix_content_analysis.ipynb
 │
 └── README.md
+
+## Future Improvements
+
+* Interactive dashboard using Power BI or Streamlit
+* Additional analysis of directors and actors
+* Content recommendation system
+* Machine learning-based content trend prediction
